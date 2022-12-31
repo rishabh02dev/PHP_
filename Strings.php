@@ -8,5 +8,5 @@
     echo "The reverse string is " . strrev($str); "<br>";
     echo "The replaced string is ". str_replace("is" , "at", $str);
 
-
+ 
 ?>
