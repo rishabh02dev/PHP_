@@ -1,9 +1,9 @@
 # PHP_
 Getting Familiar with PHP
 
-In the project this is a form subsmission page for a fest using php the backend is written and XAMPP to merge database threw MYSQL.
+In the project this is a form subsmission page for a fest using php the backend is written and XAMPP to merge database threw MYSQL. <br>
 
-<br>
+
 This is the form submission page
 ![Screenshot (708)](https://user-images.githubusercontent.com/117344508/210147461-ede02913-ca2a-445a-956a-3b9c5c84555f.png)
 
