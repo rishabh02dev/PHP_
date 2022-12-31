@@ -1,5 +1,5 @@
 <?php
-$insert = false;
+$insert = false; 
 if(isset($_POST['name'])){
     // Set connection variables
     $server = "localhost";
